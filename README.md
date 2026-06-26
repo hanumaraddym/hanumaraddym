@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Hanumaraddy+M+👋;Senior+QA+Automation+Engineer+%7C+7%2B+Years;Java+%7C+Selenium+%7C+Playwright+%7C+Cypress;Appium+%7C+Rest+Assured+%7C+AccelQ+%7C+Cursor+AI;AWS+%7C+Docker+%7C+Jenkins+%7C+GitHub+Actions;Building+Scalable+Automation+Frameworks+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Hanumaraddy+M+%F0%9F%91%8B;Senior+QA+Automation+Engineer+%7C+7%2B+Years;Java+%7C+Selenium+%7C+Playwright+%7C+Cypress;Appium+%7C+Rest+Assured+%7C+AccelQ+%7C+Cursor+AI;AWS+%7C+Docker+%7C+Jenkins+%7C+GitHub+Actions;Building+Scalable+Automation+Frameworks+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hanumaraddym&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/hanumaraddym)
 [![GitHub followers](https://img.shields.io/github/followers/hanumaraddym?style=for-the-badge&color=00C8FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/hanumaraddym?tab=followers)
