@@ -1,6 +1,3 @@
-Yes. You need to replace everything in your README.md with the content below.
-
-GitHub → Your Profile Repository → README.md → Edit → Select All → Delete → Paste → Commit Changes
 
 👋 Hi, I’m Hanumaraddy M
 
