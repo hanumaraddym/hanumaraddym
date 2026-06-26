@@ -1,27 +1,101 @@
-# 💫 About Me:
-💼 Senior QA Automation Engineer | 7+ Years<br><br>🏢 Cigna Healthcare | Ex-Amazon | Ex-Nagarro<br><br>🚀 Passionate about building scalable automation frameworks for Web, Mobile, API & ETL platforms.<br><br>💻 Expert in Java, Selenium, Playwright, Cypress, Appium, Rest Assured, AccelQ, Cursor AI, Jenkins and GitHub Actions.<br><br>☁️ Hands-on experience with AWS, Docker, BrowserStack, Snowflake, MongoDB and MySQL.<br><br>📈 Increased automation coverage from 30% to 80%+, reduced regression effort by 60%, and accelerated CI/CD releases.
+Yes. You need to replace everything in your README.md with the content below.
 
+GitHub → Your Profile Repository → README.md → Edit → Select All → Delete → Paste → Commit Changes
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanumaraddy-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hmreddy.qa@gmail.com) 
+👋 Hi, I’m Hanumaraddy M
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hanumaraddym&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hanumaraddym&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hanumaraddym&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Senior QA Automation Engineer | SDET | 7+ Years Experience | Ex-Amazon | Cigna Healthcare
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hanumaraddym&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Senior+QA+Automation+Engineer;Java+%7C+Selenium+%7C+Playwright+%7C+Cypress;Appium+%7C+RestAssured+%7C+AccelQ;API+Automation+%7C+Mobile+Automation;AWS+%7C+Docker+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+New+Technologies+🚀" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hanumaraddym&style=for-the-badge&color=blueviolet"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+⸻
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hanumaraddym&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=hanumaraddym&icon=0&color=0)](https://visitcount.itsvg.in)
+* 💼 Senior QA Automation Engineer with 7+ Years of experience
+* 🏢 Currently working at Cigna Healthcare
+* 🏆 Ex-Amazon | Ex-Nagarro
+* 🤖 Expert in Java, Selenium, Playwright, Cypress, Appium, Rest Assured, AccelQ & Cursor AI
+* ☁️ Hands-on experience with AWS, Jenkins, GitHub Actions, Docker & BrowserStack
+* 📈 Increased Automation Coverage from 30% → 80%+
+* ⚡ Reduced Regression Execution by 60%
+* 🌱 Currently learning AI-powered Test Automation & Kubernetes
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⸻
+
+🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hanumaraddy-m/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:hmreddy.qa@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://github.com/hanumaraddym">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+⸻
+
+💻 Tech Stack
+
+Languages
+
+Automation
+
+API
+
+Cloud & DevOps
+
+Database
+
+Performance
+
+⸻
+
+💼 Experience
+
+🏢 Senior QA Automation Engineer — Cigna Healthcare
+
+🏢 Associate Staff Engineer — Nagarro
+
+🏢 Quality Assurance Engineer — Amazon
+
+⸻
+
+🏆 Achievements
+
+* 🚀 Increased Automation Coverage from 30% → 80%
+* ⚡ Reduced Regression Execution by 60%
+* 🤖 Built Automation Frameworks from Scratch
+* ☁️ AWS CI/CD Automation
+* 📱 Web, Mobile, API & ETL Testing
+* 🧠 AI-powered Automation using AccelQ & Cursor AI
+
+⸻
+
+📊 GitHub Stats
+
+⸻
+
+🏆 GitHub Trophies
+
+⸻
+
+📈 Contribution Graph
+
+⸻
+
+💬 Quote
+
+“Quality is never an accident; it is always the result of intelligent effort.”
+
+⭐ If you like my work, don’t forget to Star my repositories.
+
