@@ -116,13 +116,13 @@
 
 ## 📊 GitHub Stats
 
+> 🚀 Full stats will populate once public repositories are live — coming very soon!
+
 <div align="center">
 
-![Hanumaraddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanumaraddym&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![Hanumaraddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanumaraddym&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hanumaraddym&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanumaraddym&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -130,9 +130,11 @@
 
 ## 🏆 GitHub Trophies
 
+> 🏅 Trophies unlock as repositories and contributions grow — watch this space!
+
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=hanumaraddym&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanumaraddym&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
 
 </div>
 
@@ -143,16 +145,6 @@
 <div align="center">
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanumaraddym&theme=tokyo-night&hide_border=false&area=true)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=hanumaraddym&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
